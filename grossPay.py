@@ -1,10 +1,10 @@
 #Write a program to prompt the user for hours and rate per hour using input to compute gross pay.
 
-hrs = input("Enter Hours:")
-rph = input("Rate per hour: ")
+hours = input("Enter Hours:")
+rate = input("Rate per hour: ")
 
-h=float(hrs)
-r=float(rph)
+h=float(hours)
+r=float(rate)
 
 rate=h*r
 
